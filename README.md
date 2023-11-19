@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning HTML, CSS, JS & Git
 
+- - 👯 I’m looking to collaborate on any Frontend Project be it Intenship, Volunteer or Junior Position that will make me explore my current skills am learning.
+
 
 
 <!--
